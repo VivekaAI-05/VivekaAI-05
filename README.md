@@ -10,26 +10,23 @@
   <a href="mailto:vivekasri.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-vivekasri.ai@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/viveka-ai">
     <img src="https://img.shields.io/badge/LinkedIn-Viveka%20Sri-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="https://github.com/VivekaAI-05">
     <img src="https://img.shields.io/badge/GitHub-VivekaAI--05-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VivekaAI-05&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=VivekaAI-05&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science**  
-PSRR College of Engineering (Expected 2027)
+🎓 **B.Tech Artificial Intelligence & Data Science** — PSRR College of Engineering *(Expected 2027)*
 
 💡 Passionate about developing AI-powered applications using Python.
 
@@ -39,36 +36,43 @@ PSRR College of Engineering (Expected 2027)
 - ✨ Generative AI
 - 🔍 Retrieval-Augmented Generation (RAG)
 
-🌱 Currently Learning
-
-- Deep Learning
-- LangChain
-- AI Agents
-- LLM Applications
-
-📫 **Email:** vivekasri.ai@gmail.com
+📫 **Reach me at:** vivekasri.ai@gmail.com
 
 ---
 
-# 🛠 Tech Stack
+## 🌱 Currently Learning
 
-### Languages
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-2E8B57?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-8E44AD?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0467DF?style=for-the-badge)
+
+- 🧠 **Deep Learning** — Neural networks, CNNs, and model fine-tuning fundamentals
+- 🔗 **LangChain** — Building chains, agents, and tool-integrated LLM workflows
+- 🤖 **AI Agents** — Designing autonomous, tool-using agent pipelines
+- 💬 **LLM Applications** — Real-world apps powered by large language models
+- ✍️ **Prompt Engineering** — Crafting effective prompts for better model outputs
+- 📦 **Vector Databases** — FAISS, embeddings, and semantic search for RAG systems
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### AI / ML
+**AI / ML**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)
 
----
-
-### Libraries & Frameworks
+**Libraries & Frameworks**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -79,9 +83,7 @@ PSRR College of Engineering (Expected 2027)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
----
-
-### Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -91,100 +93,81 @@ PSRR College of Engineering (Expected 2027)
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🤖 AI Resume Screener
-
+### 🤖 [AI Resume Screener](https://github.com/VivekaAI-05/ai-resume-screener)
 An AI-powered ATS Resume Analyzer that evaluates resumes, calculates ATS scores, identifies missing skills, and suggests improvements.
 
-**Tech Stack**
+`Python` `NLP` `TF-IDF` `Scikit-learn` `Streamlit`
 
-Python • NLP • TF-IDF • Scikit-learn • Streamlit
+🔗 **Repo:** [github.com/VivekaAI-05/ai-resume-screener](https://github.com/VivekaAI-05/ai-resume-screener)
 
 ---
 
-## 📄 PDF Chatbot (RAG)
-
+### 📄 [PDF Chatbot (RAG)](https://github.com/VivekaAI-05/pdf-chatbot-rag)
 Retrieval-Augmented Generation chatbot that answers questions from uploaded PDF documents.
 
-**Tech Stack**
+`Python` `LangChain` `FAISS` `Streamlit` `OpenRouter API`
 
-Python • LangChain • FAISS • Streamlit • OpenRouter API
+🔗 **Repo:** [github.com/VivekaAI-05/pdf-chatbot-rag](https://github.com/VivekaAI-05/pdf-chatbot-rag)
 
 ---
 
-## 🔳 QR Code Generator
-
+### 🔳 [QR Code Generator](https://github.com/VivekaAI-05/qr-code-generator)
 Generate customized QR Codes instantly using Python.
 
-**Tech Stack**
+`Python` `Streamlit`
 
-Python • Streamlit
+🔗 **Repo:** [github.com/VivekaAI-05/qr-code-generator](https://github.com/VivekaAI-05/qr-code-generator)
 
----
-
-# 🎓 Certifications
-
-🏅 NPTEL – Python for Data Science
-
-🏅 Microsoft – Fundamentals of Responsible Generative AI
-
-🏅 Infosys Springboard – Introduction to Artificial Intelligence
-
-🏅 UiPath – PDF Automation with Studio
+> ⚠️ **Note:** Replace the repo names above (`ai-resume-screener`, `pdf-chatbot-rag`, `qr-code-generator`) with your actual GitHub repository names if they differ, so the links point to the right place.
 
 ---
 
-# 🏆 Achievements
+## 🎓 Certifications
 
-🥇 Participated in VJ Hackathon 2025
-
-🥈 RUBICONS'24 National Level Technical Symposium
+- 🏅 NPTEL – Python for Data Science
+- 🏅 Microsoft – Fundamentals of Responsible Generative AI
+- 🏅 Infosys Springboard – Introduction to Artificial Intelligence
+- 🏅 UiPath – PDF Automation with Studio
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 Achievements
+
+- 🥇 Participated in VJ Hackathon 2025
+- 🥈 RUBICONS'24 National Level Technical Symposium
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VivekaAI-05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=VivekaAI-05&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VivekaAI-05&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=VivekaAI-05&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekaAI-05&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekaAI-05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/viveka-ai">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vivekasri.ai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VivekaAI-05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/viveka-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vivekasri.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VivekaAI-05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<h4 align="center">
-🌱 Passionate about leveraging AI to solve real-world challenges.
-</h4>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h4 align="center">🌱 Passionate about leveraging AI to solve real-world challenges.</h4>
