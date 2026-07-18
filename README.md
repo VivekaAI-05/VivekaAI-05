@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:vivekasri.ai@gmail.com"><img src="https://img.shields.io/badge/Email-vivekasri.ai@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/VivekaAI-05"><img src="https://img.shields.io/badge/GitHub-VivekaAI--05-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -54,15 +54,15 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [AI Resume Screener](https://github.com/YOUR-USERNAME/YOUR-REPO)
+#### 🔹 [AI Resume Screener](https://github.com/VivekaAI-05)
 An NLP-powered tool that ranks resumes against job descriptions using **TF-IDF and cosine similarity**, deployed as an interactive Streamlit app to automate recruiter screening.
 `Python` `NLP` `Scikit-learn` `Streamlit` `PyPDF2`
 
-#### 🔹 [RAG-Based PDF Chatbot](https://github.com/YOUR-USERNAME/YOUR-REPO)
+#### 🔹 [RAG-Based PDF Chatbot](https://github.com/VivekaAI-05)
 A Retrieval-Augmented Generation chatbot that answers questions from uploaded PDFs using **FAISS vector search**, **LangChain**, and the **OpenRouter API**, with a real-time Streamlit interface.
 `Python` `LangChain` `FAISS` `Streamlit` `OpenRouter API`
 
-#### 🔹 [QR Code Generator](https://github.com/YOUR-USERNAME/YOUR-REPO)
+#### 🔹 [QR Code Generator](https://github.com/VivekaAI-05)
 A web-based QR code generator supporting text and URL inputs, with real-time generation and download functionality.
 `Python` `Streamlit`
 
@@ -83,8 +83,8 @@ A web-based QR code generator supporting text and URL inputs, with real-time gen
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VivekaAI-05&show_icons=true&theme=radical"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekaAI-05&theme=radical"/>
 </p>
 
 ---
