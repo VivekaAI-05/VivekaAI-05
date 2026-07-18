@@ -1,70 +1,92 @@
 <h1 align="center">Hi 👋, I'm Viveka Sri R</h1>
-<h3 align="center">Aspiring AI Engineer | Python Developer | Building Real-World AI Projects</h3>
+<h3 align="center">Aspiring AI & Python Developer | ML • NLP • Generative AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects" />
+  <a href="mailto:vivekasri.ai@gmail.com"><img src="https://img.shields.io/badge/Email-vivekasri.ai@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-- 🎓 Aspiring AI Engineer
-- 💻 Python Developer
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📚 Currently learning Generative AI, LangChain & LLMs
-- 🚀 Building real-world AI applications
-- 🌱 Improving DSA and Problem Solving
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
-### AI & Tools
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+- 🎓 B.Tech in **Artificial Intelligence and Data Science**, PSRR College of Engineering (Expected 2027) — CGPA 8.2/10
+- 🤖 Building AI-powered applications with **Python, Machine Learning, NLP, and Generative AI**
+- 🛠️ Hands-on with projects like an **AI Resume Screener**, a **RAG-based PDF Chatbot**, and a **QR Code Generator**
+- 🌱 Currently strengthening skills in Deep Learning, LangChain, and scalable app deployment
+- 💬 Ask me about Python, ML pipelines, NLP, or Streamlit app development
+- 📫 Reach me at **vivekasri.ai@gmail.com**
 
 ---
 
-## 📌 Featured Projects
+### 🧰 Tech Stack
 
-🔹 AI Resume Screener
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-🔹 AI Interview Assistant
+**AI & ML**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat)
 
-🔹 PDF Chatbot (RAG)
+**Frameworks & Libraries**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
 
-🔹 QR Code Generator
-
-🔹 Python Mini Projects
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+### 📌 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=VivekaAI-05&show_icons=true&theme=tokyonight)
+#### 🔹 [AI Resume Screener](https://github.com/YOUR-USERNAME/YOUR-REPO)
+An NLP-powered tool that ranks resumes against job descriptions using **TF-IDF and cosine similarity**, deployed as an interactive Streamlit app to automate recruiter screening.
+`Python` `NLP` `Scikit-learn` `Streamlit` `PyPDF2`
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VivekaAI-05&theme=tokyonight)
+#### 🔹 [RAG-Based PDF Chatbot](https://github.com/YOUR-USERNAME/YOUR-REPO)
+A Retrieval-Augmented Generation chatbot that answers questions from uploaded PDFs using **FAISS vector search**, **LangChain**, and the **OpenRouter API**, with a real-time Streamlit interface.
+`Python` `LangChain` `FAISS` `Streamlit` `OpenRouter API`
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekaAI-05&layout=compact&theme=tokyonight)
+#### 🔹 [QR Code Generator](https://github.com/YOUR-USERNAME/YOUR-REPO)
+A web-based QR code generator supporting text and URL inputs, with real-time generation and download functionality.
+`Python` `Streamlit`
 
 ---
 
-## 🌐 Connect with Me
+### 🎓 Certifications
+- NPTEL – Python for Data Science
+- Microsoft – Fundamentals of Responsible Generative AI
+- Infosys Springboard – Introduction to Artificial Intelligence
+- UiPath – PDF Automation with Studio
 
-- 💼 LinkedIn: https://www.linkedin.com/in/viveka-ai
-- 💻 GitHub: https://github.com/VivekaAI-05
+### 🏆 Achievements
+- Participated in **VJ Hackathon 2025** — team's project proposal qualified for the abstract review round
+- Certificate of Participation – **RUBICONS'24**, National Level Technical Symposium
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical"/>
 </p>
+
+---
+
+<p align="center"><i>🌱 Passionate about leveraging AI to solve real-world challenges</i></p>
