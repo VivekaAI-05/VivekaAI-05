@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Viveka Sri R
 
-<!--
-**VivekaAI-05/VivekaAI-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring AI Engineer | Python Developer
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Learning AI, Machine Learning & Generative AI
+- 💻 Python Developer
+- 🤖 Building Real-World AI Projects
+- 📚 Solving LeetCode Problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- Python
+- Machine Learning
+- Git & GitHub
+- Streamlit
+- LangChain
+- MySQL
+
+### 📌 Featured Projects
+- 🤖 AI Resume Screener
+- 📄 PDF Chatbot
+- 💬 AI Interview Assistant
+- 🔳 QR Code Generator
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/viveka-ai
+- GitHub: https://github.com/VivekaAI-05
+
+⭐ Thanks for visiting my profile!
